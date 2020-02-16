@@ -1,4 +1,4 @@
-# PyLeetCode
+# PyLeetCode 👨‍💻👩‍💻
 - This repo is a curation of the [Leetcode](https://leetcode.com/) Problems which I solve occasionaly.
 - The solutions are primarily in Python
 - You can use this as a refernce for your Interview Prep Journey or in general problem solving
@@ -9,7 +9,7 @@
 - Yet there might be ones which are much more efficent in terms of space and time complexity or even brevity of code
 - Feel free to add your own!
 
-# Problems:
+# Problems: 📚🧾
 
 | Questions | Solution(s) |
 | --------- | --------- |
@@ -20,7 +20,7 @@
 
 
 
-# Disclaimer:
+# Disclaimer: ❗
 - I don't own or am the creator of any of the problems.
 - Please refer to the official [leetcode](https://leetcode.com/) website for any futher details
 
@@ -36,3 +36,8 @@
 - GeeksforGeeks
 - Project Euler
 - CodeChef
+
+# Challenge! ⚔
+- If you dare then take up the #100DaysofCode Challenge on Twitter and solve 4-5 problems everyday!
+- Believe me in no time, you would have solved all the Easy problems on [Leetcode](https://leetcode.com/)
+- Don't forget to tag me on Twitter: @smaranjitghose 
