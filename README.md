@@ -9,7 +9,7 @@
 - Yet there might be ones which are much more efficent in terms of space and time complexity or even brevity of code
 - Feel free to add your own!
 
-# Problems: 📚🧾
+# Problems: 📚
 
 | Questions | Solution(s) |
 | --------- | --------- |
