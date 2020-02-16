@@ -16,6 +16,8 @@
 |[1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| [Solution 1](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1342.py),[Solution 2](https://github.com/smaranjitghose/PyLeetCode/tree/master/solutions_easy/1342_2.py) | 
 |[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1295.py) | 
 |[1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1281.py) | 
+|[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1281.py) | 
+
 
 
 # Disclaimer:
