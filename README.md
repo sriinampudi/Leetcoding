@@ -9,6 +9,11 @@
 - Yet there might be ones which are much more efficent in terms of space and time complexity or even brevity of code
 - Feel free to add your own!
 
+# Problems:
+
+| Questions | My Solution |
+| --------- | --------- |
+|[1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| |
 # Disclaimer:
 - I don't own or am the creator of any of the problems.
 - Please refer to the official [leetcode](https://leetcode.com/) website for any futher details
