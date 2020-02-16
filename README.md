@@ -13,7 +13,9 @@
 
 | Questions | Solution(s) |
 | --------- | --------- |
-|[1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| [Solution 1](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1342.py),[Solution 2](https://github.com/smaranjitghose/PyLeetCode/tree/master/solutions_easy/1342_2.py) | 
+|[1342.Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| [Solution 1](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1342.py),[Solution 2](https://github.com/smaranjitghose/PyLeetCode/tree/master/solutions_easy/1342_2.py) | 
+|[1295.Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1295.py) | 
+
 
 # Disclaimer:
 - I don't own or am the creator of any of the problems.
