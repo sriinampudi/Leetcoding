@@ -11,9 +11,10 @@
 
 # Problems:
 
-| Questions | My Solution |
+| Questions | Solution |
 | --------- | --------- |
-|[1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| |
+|[1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1342.py) | 
+
 # Disclaimer:
 - I don't own or am the creator of any of the problems.
 - Please refer to the official [leetcode](https://leetcode.com/) website for any futher details
@@ -29,4 +30,4 @@
 - HackerRank
 - GeeksforGeeks
 - Project Euler
-- CodeCheg
+- CodeChef
