@@ -17,6 +17,10 @@
 |[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1295.py) | 
 |[1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1281.py) | 
 |[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1281.py) | 
+|[1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1313.py) | 
+|[1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1221.py) | 
+|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/771.py) | 
+|[1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1351.py) | 
 
 
 
