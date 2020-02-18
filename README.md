@@ -2,7 +2,7 @@
 - This repo is a curation of the [Leetcode](https://leetcode.com/) Problems which I solve occasionaly.
 - The solutions are primarily in Python
 - You can use this as a refernce for your Interview Prep Journey or in general problem solving
-- Currently availabe:Easy Problems
+- Currently availabe:[Easy](https://leetcode.com/problemset/algorithms/?difficulty=Easy) Problems
 
 # Note:
 - I have tried to obtain the best solutions for each of the problems
