@@ -41,10 +41,9 @@
 
 # Other places to practice from(Scripts coming up post summer):
 
-- HackerRank
-- GeeksforGeeks
-- Project Euler
-- CodeChef
+- [HackerRank](https://www.hackerrank.com/)
+- [Project Euler](https://projecteuler.net/)
+- [CodeChef] (https://www.codechef.com/problems/school)
 
 # Challenge! ⚔
 - If you dare then take up the #100DaysofCode Challenge on Twitter and solve 4-5 problems everyday!
