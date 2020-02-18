@@ -43,7 +43,7 @@
 
 - [HackerRank](https://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
-- [CodeChef] (https://www.codechef.com/problems/school)
+- [CodeChef](https://www.codechef.com/problems/school)
 
 # Challenge! ⚔
 - If you dare then take up the #100DaysofCode Challenge on Twitter and solve 4-5 problems everyday!
