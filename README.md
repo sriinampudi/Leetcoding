@@ -21,6 +21,11 @@
 |[1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1221.py) | 
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/771.py) | 
 |[1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1351.py) | 
+|[1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1323.py) | 
+|[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/709.py) | 
+|[1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1304.py) | 
+|[1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1021.py) | 
+|[1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1299.py) | 
 
 
 
