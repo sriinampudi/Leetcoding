@@ -25,7 +25,13 @@
 |[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/709.py) | 
 |[1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1304.py) | 
 |[1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1021.py) | 
-|[1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1299.py) | 
+|[1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1299.py) |
+|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/7.py) | 
+|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/832.py) | 
+|[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/977.py) | 
+|[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/905.py) | 
+|[728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/728.py) | 
+
 
 
 
