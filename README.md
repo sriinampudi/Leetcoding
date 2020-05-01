@@ -2,7 +2,6 @@
 
 <p align="center"><img width=40% src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif"></p>
 
-
 - This repo is a curation of the [Leetcode](https://leetcode.com/) Problems which I solve occasionaly.
 - The solutions are primarily in Python
 - You can use this as a refernce for your Interview Prep Journey or in general problem solving
@@ -13,7 +12,9 @@
 - Yet there might be ones which are much more efficent in terms of space and time complexity or even brevity of code
 - Feel free to add your own!
 
-# Problems: 📚
+<p align="center"><img width=40% src="https://media.giphy.com/media/gjaJ4I9CdwBBTbY4W1/giphy.gif"></p>
+
+<h2 align= "center"><b>Problems: 📚</b></h2>
 
 | Questions | Solution(s) |
 | --------- | --------- |
