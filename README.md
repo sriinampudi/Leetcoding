@@ -50,7 +50,7 @@
 ## Further work:
 - Complete all Easy Problems
 - Have detailed explanations along with the code
-- Do time and spacy complexity analysis of each
+- Do time and space complexity analysis of each
 - Start implementing Medium Problems
 
 # Other places to practice from(Scripts coming up post summer):
