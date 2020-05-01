@@ -6,6 +6,9 @@
 - The solutions are primarily in Python
 - You can use this as a refernce for your Interview Prep Journey or in general problem solving
 - Currently availabe: [Easy](https://leetcode.com/problemset/algorithms/?difficulty=Easy) Problems , [Medium](https://leetcode.com/problemset/algorithms/?difficulty=Medium) Problems
+- There might be solutions which are much more efficent in terms of space and time complexity or even brevity of code
+- Feel free to add your own!
+
 
 <p align="center"><img width=40% src="https://media.giphy.com/media/gjaJ4I9CdwBBTbY4W1/giphy.gif"></p>
 
@@ -37,27 +40,6 @@
 | Questions | Solution(s)| Explanation(s) |
 | --------- | --------- | ------------- |
 |[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](solutions_easy/first_bad_version.py) | [Explanation](https://leetcode.com/problems/first-bad-version/discuss/606597/Simple-Python-solution.-Beats-89.22-of-submissions)|
-
-
-<h4 align= "center"><b> Note: </b></h4>
-
-- I have tried to obtain the best solutions for each of the problems
-- Yet there might be ones which are much more efficent in terms of space and time complexity or even brevity of code
-- Feel free to add your own!
-- I don't own or am the creator of any of the problems.
-- Please refer to the official [leetcode](https://leetcode.com/) website for any futher details
-
-## Further work:
-- Complete all Easy Problems
-- Have detailed explanations along with the code
-- Do time and space complexity analysis of each
-- Start implementing Medium Problems
-
-# Other places to practice from(Scripts coming up post summer):
-
-- [HackerRank](https://www.hackerrank.com/)
-- [Project Euler](https://projecteuler.net/)
-- [CodeChef](https://www.codechef.com/problems/school)
 
 # Challenge! ⚔
 - If you dare then take up the #100DaysofCode Challenge on Twitter and solve 4-5 problems everyday!
