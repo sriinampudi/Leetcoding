@@ -5,7 +5,7 @@
 - This repo is a curation of the [Leetcode](https://leetcode.com/) Problems which I solve occasionaly.
 - The solutions are primarily in Python
 - You can use this as a refernce for your Interview Prep Journey or in general problem solving
-- Currently availabe:[Easy](https://leetcode.com/problemset/algorithms/?difficulty=Easy) Problems , [Medium](https://leetcode.com/problemset/algorithms/?difficulty=Medium) Problems
+- Currently availabe: [Easy](https://leetcode.com/problemset/algorithms/?difficulty=Easy) Problems , [Medium](https://leetcode.com/problemset/algorithms/?difficulty=Medium) Problems
 
 <p align="center"><img width=40% src="https://media.giphy.com/media/gjaJ4I9CdwBBTbY4W1/giphy.gif"></p>
 
@@ -63,3 +63,7 @@
 - If you dare then take up the #100DaysofCode Challenge on Twitter and solve 4-5 problems everyday!
 - Believe me in no time, you would have solved all the Easy problems on [Leetcode](https://leetcode.com/)
 - Don't forget to tag me on Twitter: @smaranjitghose 
+
+<a href="./LICENSE"><h2 align= "center"><b> License 📝</b></h2></a> 
+
+<p align="center"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></
