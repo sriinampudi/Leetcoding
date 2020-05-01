@@ -5,14 +5,14 @@
 - This repo is a curation of the [Leetcode](https://leetcode.com/) Problems which I solve occasionaly.
 - The solutions are primarily in Python
 - You can use this as a refernce for your Interview Prep Journey or in general problem solving
-- Currently availabe:[Easy](https://leetcode.com/problemset/algorithms/?difficulty=Easy) Problems , [Medium](https://leetcode.com/problemset/algorithms/?difficulty=Medium) Problems
+- Currently availabe: [Easy](https://leetcode.com/problemset/algorithms/?difficulty=Easy) Problems , [Medium](https://leetcode.com/problemset/algorithms/?difficulty=Medium) Problems
 
 <p align="center"><img width=40% src="https://media.giphy.com/media/gjaJ4I9CdwBBTbY4W1/giphy.gif"></p>
 
 <h2 align= "center"><b>Problems: 📚</b></h2>
 
 | Questions | Solution(s) |
-| --------- | --------- |
+| --------- | ----------- |
 |[1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| [Solution 1](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1342.py),[Solution 2](https://github.com/smaranjitghose/PyLeetCode/tree/master/solutions_easy/1342_2.py) | 
 |[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1295.py) | 
 |[1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1281.py) | 
@@ -34,21 +34,24 @@
 
 # 2020 May Leetcoding challenge
 
-| Questions | Solution(s) | Explanations |
+| Questions | Solution(s) |
 | --------- | --------- |
-|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Solution](solutions_easy/first_bad_version.py)| |
+|[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](solutions_easy/first_bad_version.py) | 
 
 
+<h4 align= "center"><b>Note: ❗</b></h4>
 
-# Disclaimer: ❗
-- I don't neither own nor am the creator of any of the problems.
+- I have tried to obtain the best solutions for each of the problems
+- Yet there might be ones which are much more efficent in terms of space and time complexity or even brevity of code
+- Feel free to add your own!
+- I don't own or am the creator of any of the problems.
 - Please refer to the official [leetcode](https://leetcode.com/) website for any futher details
 
 ## Further work:
 - Complete all Easy Problems
 - Have detailed explanations along with the code
-- Do time and spacy complexity analysis of each
-- Start implementing Medium Problems and repeat te same
+- Do time and space complexity analysis of each
+- Start implementing Medium Problems
 
 # Other places to practice from(Scripts coming up post summer):
 
@@ -59,4 +62,8 @@
 # Challenge! ⚔
 - If you dare then take up the #100DaysofCode Challenge on Twitter and solve 4-5 problems everyday!
 - Believe me in no time, you would have solved all the Easy problems on [Leetcode](https://leetcode.com/)
-- Don't forget to tag me on Twitter: @smaranjitghose  or LinkedIn
+- Don't forget to tag me on Twitter: @smaranjitghose 
+
+<a href="./LICENSE"><h2 align= "center"><b> License 📝</b></h2></a> 
+
+<p align="center"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></p>
