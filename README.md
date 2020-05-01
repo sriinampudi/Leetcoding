@@ -35,7 +35,7 @@
 |[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/905.py) | 
 |[728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/728.py) | 
 
-# [2020 May Leetcoding challenge](https://leetcode.com/discuss/general-discussion/595334/May-LeetCoding-Challenge)
+<a href="https://leetcode.com/discuss/general-discussion/595334/May-LeetCoding-Challenge"><h3 align= "center"><b>2020 May Leetcoding challenge</b></h3></a> 
 
 | Questions | Solution(s)| Explanation(s) |
 | --------- | --------- | ------------- |
