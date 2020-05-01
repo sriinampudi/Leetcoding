@@ -34,24 +34,21 @@
 
 # 2020 May Leetcoding challenge
 
-| Questions | Solution(s) |
+| Questions | Solution(s) | Explanations |
 | --------- | --------- |
-|[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/728.py) | 
+|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Solution](solutions_easy/first_bad_version.py)| |
 
 
-<h4 align= "center"><b>Note: ❗</b></h4>
 
-- I have tried to obtain the best solutions for each of the problems
-- Yet there might be ones which are much more efficent in terms of space and time complexity or even brevity of code
-- Feel free to add your own!
-- I don't own or am the creator of any of the problems.
+# Disclaimer: ❗
+- I don't neither own nor am the creator of any of the problems.
 - Please refer to the official [leetcode](https://leetcode.com/) website for any futher details
 
 ## Further work:
 - Complete all Easy Problems
 - Have detailed explanations along with the code
 - Do time and spacy complexity analysis of each
-- Start implementing Medium Problems
+- Start implementing Medium Problems and repeat te same
 
 # Other places to practice from(Scripts coming up post summer):
 
@@ -62,4 +59,4 @@
 # Challenge! ⚔
 - If you dare then take up the #100DaysofCode Challenge on Twitter and solve 4-5 problems everyday!
 - Believe me in no time, you would have solved all the Easy problems on [Leetcode](https://leetcode.com/)
-- Don't forget to tag me on Twitter: @smaranjitghose 
+- Don't forget to tag me on Twitter: @smaranjitghose  or LinkedIn
