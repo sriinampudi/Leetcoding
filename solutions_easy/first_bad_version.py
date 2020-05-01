@@ -20,19 +20,15 @@
 
 # Then 4 is the first bad version.
 
-# The isBadVersion API is already defined for you.
-# @param version, an integer
-# @return a bool
-# def isBadVersion(version):
 
-
-
-def firstBadVersion(self, n):
-    if isBadVersion(1):
-        return 1
-    b = [1, n]
-    while 1:
-        m, i, j = (b[0]+b[1])//2, b[0], b[1]
-        b = [m, j] if isBadVersion(i) == isBadVersion(m) else [i, m]
-        if j - i == 1:
-            return j
+class Solution:
+    def firstBadVersion(self, n):
+        left = 1
+        right = n
+        while left < right:
+            mid = left + (right-left)//2
+            if isBadVersion(mid):
+                right = mid
+            else:
+                left = mid + 1
+        return left
