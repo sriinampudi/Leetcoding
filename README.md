@@ -32,6 +32,11 @@
 |[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/905.py) | 
 |[728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/728.py) | 
 
+# 2020 May Leetcoding challenge
+
+| Questions | Solution(s) |
+| --------- | --------- |
+|[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/728.py) | 
 
 
 
