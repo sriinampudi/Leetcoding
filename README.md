@@ -34,9 +34,9 @@
 
 # 2020 May Leetcoding challenge
 
-| Questions | Solution(s) |
-| --------- | --------- |
-|[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](solutions_easy/first_bad_version.py) | 
+| Questions | Solution(s)| Explanation(s) |
+| --------- | --------- | ------------- |
+|[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](solutions_easy/first_bad_version.py) | [Explanation](https://leetcode.com/problems/first-bad-version/discuss/606597/Simple-Python-solution.-Beats-89.22-of-submissions)|
 
 
 <h4 align= "center"><b> Note: </b></h4>
