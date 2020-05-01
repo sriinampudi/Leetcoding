@@ -1,4 +1,8 @@
-# PyLeetCode 👨‍💻👩‍💻
+<h1 align= "center"><b> LeetCoding 👨‍💻 👩‍💻</b></h1>
+
+<p align="center"><img width=40% src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif"></p>
+
+
 - This repo is a curation of the [Leetcode](https://leetcode.com/) Problems which I solve occasionaly.
 - The solutions are primarily in Python
 - You can use this as a refernce for your Interview Prep Journey or in general problem solving
