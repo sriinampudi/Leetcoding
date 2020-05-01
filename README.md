@@ -7,11 +7,6 @@
 - You can use this as a refernce for your Interview Prep Journey or in general problem solving
 - Currently availabe:[Easy](https://leetcode.com/problemset/algorithms/?difficulty=Easy) Problems , [Medium](https://leetcode.com/problemset/algorithms/?difficulty=Medium) Problems
 
-# Note:
-- I have tried to obtain the best solutions for each of the problems
-- Yet there might be ones which are much more efficent in terms of space and time complexity or even brevity of code
-- Feel free to add your own!
-
 <p align="center"><img width=40% src="https://media.giphy.com/media/gjaJ4I9CdwBBTbY4W1/giphy.gif"></p>
 
 <h2 align= "center"><b>Problems: 📚</b></h2>
@@ -44,8 +39,11 @@
 |[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/728.py) | 
 
 
+<h4 align= "center"><b>Note: ❗</b></h4>
 
-# Disclaimer: ❗
+- I have tried to obtain the best solutions for each of the problems
+- Yet there might be ones which are much more efficent in terms of space and time complexity or even brevity of code
+- Feel free to add your own!
 - I don't own or am the creator of any of the problems.
 - Please refer to the official [leetcode](https://leetcode.com/) website for any futher details
 
