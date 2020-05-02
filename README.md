@@ -41,10 +41,10 @@
 | Day 1 |[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](solutions_python/first_bad_version.py)| |
 | Day 2 |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution 1](solutions_python/jewels_and_stones_1.py), [Solution 2](solutions_python/jewels_and_stones_2.py)||
 
-*Provided by [Anush Bhatia](https://github.com/anushbhatia))
+*Provided by [Anush Bhatia](https://github.com/anushbhatia)
 
 # Challenge! ⚔
-- If you dare then take up the #100DaysofCode Challenge on Twitter and solve 4-5 problems everyday!
+- If you dare then take up the #100DaysofCode Challenge on Twitter and solve 2-5 problems everyday!
 - Believe me in no time, you would have solved all the Easy problems on [Leetcode](https://leetcode.com/)
 - Don't forget to tag me on Twitter: @smaranjitghose 
 
