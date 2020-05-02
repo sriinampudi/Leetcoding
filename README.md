@@ -21,8 +21,7 @@
 |[1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1281.py) | 
 |[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1281.py) | 
 |[1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1313.py) | 
-|[1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1221.py) | 
-|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/771.py) | 
+|[1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1221.py) |  
 |[1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1351.py) | 
 |[1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1323.py) | 
 |[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/709.py) | 
@@ -37,9 +36,10 @@
 
 <a href="https://leetcode.com/discuss/general-discussion/595334/May-LeetCoding-Challenge"><h3 align= "center"><b>2020 May Leetcoding challenge</b></h3></a> 
 
-| Questions | Solution(s)| Explanation(s) |
-| --------- | --------- | ------------- |
-|[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](solutions_easy/first_bad_version.py) | [Explanation](https://leetcode.com/problems/first-bad-version/discuss/606597/Simple-Python-solution.-Beats-89.22-of-submissions)|
+| Questions | Solution(s)| 
+| --------- | --------- |
+|[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](solutions_easy/first_bad_version.py) | 
+|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution 1](solutions_python/jewels_and_stones.py||
 
 # Challenge! ⚔
 - If you dare then take up the #100DaysofCode Challenge on Twitter and solve 4-5 problems everyday!
