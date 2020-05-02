@@ -38,8 +38,8 @@
 
 |Day #  | Questions | Python Solution(s)| C++ Solution(s)*| 
 |-------|-------------------| --------- |-----------------|
-| Day 1 |[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](solutions_python/first_bad_version.py)| 
-| Day 2 |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution 1](solutions_python/jewels_and_stones_1.py), [Solution 2](solutions_python/jewels_and_stones_2.py)|
+| Day 1 |[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](solutions_python/first_bad_version.py)| |
+| Day 2 |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution 1](solutions_python/jewels_and_stones_1.py), [Solution 2](solutions_python/jewels_and_stones_2.py)||
 
 *Provided by [Anush Bhatia](https://github.com/anushbhatia))
 
