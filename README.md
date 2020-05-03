@@ -40,8 +40,7 @@
 |-------|-----------| ----------------- |-----------------|
 
 | Day 1 |[First Bad Version](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)| [Solution](solutions_python/first_bad_version.py)|[Solution](solutions_cpp/first_bad_version.cpp)| 
-
-| Day 2 |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution 1](solutions_python/jewels_and_stones_1.py), [Solution 2](solutions_python/jewels_and_stones_2.py)|[Solution](solutions_cpp/jewels_and_stones.cpp)||
+| Day 2 |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution 1](solutions_python/jewels_and_stones_1.py), [Solution 2](solutions_python/jewels_and_stones_2.py)|[Solution](solutions_cpp/jewels_and_stones.cpp)|
 
 |Day 3|[Ransom Note](https://leetcode.com/problems/ransom-note/)| [Solution](solutions_python/ransom_note.py)||
 
