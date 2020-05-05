@@ -42,8 +42,7 @@
 |2|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution 1](solutions_python/jewels_and_stones_1.py), [Solution 2](solutions_python/jewels_and_stones_2.py)|[Solution](solutions_cpp/jewels_and_stones.cpp)|
 |3|[Ransom Note](https://leetcode.com/problems/ransom-note/)| [Solution 1](solutions_python/ransom_note_1.py),[Solution 2](solutions_python/ransom_note_2.py)|[Solution](solutions_cpp/ransom_note.cpp)|
 |4|[Number Complement](https://leetcode.com/problems/number-complement/)|[Solution 1](solutions_python/number_complement_1.py), [Solution 2](solutions_python/number_complement_2.py)| |
-|4|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Solution 1](solutions_python/number_complement_1.py), [Solution 2](solutions_python/number_complement_2.py)| |
-
+|4|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Solution 1](solutions_python/number_complement_1.py), [Solution 2](solutions_python/number_complement_2.py)| |5|[First Unique Character in a string](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](solutions_python/first_unique_character_in_string.py)| |
 
 
 
