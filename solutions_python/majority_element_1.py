@@ -29,7 +29,7 @@ def find_candidate(nums):
             vote -= 1
         if vote == 0:
             majority_c = nums[index]
-            count = 1
+            vote = 1
     return majority_c
 
 
