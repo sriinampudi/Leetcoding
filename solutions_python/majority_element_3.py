@@ -4,9 +4,9 @@
 
 # Example 1:
 
-# Input:
+# Input: 
 # [3, 2, 3]
-# Output:
+# Output: 
 # 3
 
 # Example 2:
@@ -16,24 +16,10 @@
 # Output:
 # 2
 
-from collections import Counter
-
-
-class Solution(object):
-    def majorityElement(self, nums):
-        l = len(nums)
-        if l == 1:
-            return nums[0]
-        freq_table = Counter(nums)
-        for k, v in freq_table.items():
-            if v*2 > l:
-                return k
-        return -1
-
 
 class Solution:
     def majorityElement(self, nums):
-        if len(nums)==1:
+        if len(nums) == 1:
             return nums[0]
         nums.sort()
         return nums[len(nums)//2]
