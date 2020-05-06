@@ -14,8 +14,10 @@
 from collections import Counter
 class Solution(object):
     def majorityElement(self, nums):
-        freq_table = Counter(nums)
         l = len(nums)
+        if l==1:
+            return nums[0]
+        freq_table = Counter(nums)
         m = []
         for k, v in freq_table.items():
             if v*3 > l:
