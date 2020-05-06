@@ -3,7 +3,7 @@
 <p align="center"><img width=40% src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif"></p>
 
 - This repo is a curation of the [Leetcode](https://leetcode.com/) Problems which I solve occasionaly.
-- The solutions are primarily in Python
+- The solutions are primarily in Python (also C++ for certain problems)
 - You can use this as a refernce for your Interview Prep Journey or in general problem solving
 - Currently availabe: [Easy](https://leetcode.com/problemset/algorithms/?difficulty=Easy) Problems , [Medium](https://leetcode.com/problemset/algorithms/?difficulty=Medium) Problems
 - There might be solutions which are much more efficent in terms of space and time complexity or even brevity of code
