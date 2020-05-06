@@ -17,8 +17,6 @@
 # 2
 
 from collections import Counter
-
-
 class Solution(object):
     def majorityElement(self, nums):
         l = len(nums)
@@ -30,10 +28,3 @@ class Solution(object):
                 return k
         return -1
 
-
-class Solution:
-    def majorityElement(self, nums):
-        if len(nums)==1:
-            return nums[0]
-        nums.sort()
-        return nums[len(nums)//2]

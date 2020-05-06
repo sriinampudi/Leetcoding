@@ -20,21 +20,21 @@
 def find_candidate(nums):
     if len(nums) == 1:
         return nums[0]
-    majority_e = nums[0]
-    count = 1
+    majority_c = nums[0]
+    vote = 1
     for index in range(len(nums)):
-        if nums[index] == majority_e:
-            count += 1
+        if nums[index] == majority_c:
+            vote += 1
         else:
-            count -= 1
-        if count == 0:
-            majority_e = nums[index]
+            vote -= 1
+        if vote == 0:
+            majority_c = nums[index]
             count = 1
-    return majority_e
+    return majority_c
 
 
-def verify_candidate(nums, x):
-    if nums.count(x) > len(nums)//2:
+def verify_candidate(nums, majority_c):
+    if nums.count(majority_c) > len(nums)//2:
         return True
     else:
         return False
@@ -44,9 +44,9 @@ class Solution(object):
     def majorityElement(self, nums):
         if len(nums) == 1:
             return nums[0]
-        candidate = find_candidate(nums)
-        if verify_candidate(nums, candidate):
-            return candidate
+        majority_c = find_candidate(nums)
+        if verify_candidate(nums, majority_c):
+            return majority_c
         else:
             return -1
 
