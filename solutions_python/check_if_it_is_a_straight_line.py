@@ -21,10 +21,18 @@
 # coordinates contains no duplicate point.
 
 class Solution:
-    def checkStraightLine(self, coordinates):
-        dx, dy = coordinates[1][0] - coordinates[0][0], coordinates[1][1] - coordinates[0][1]
-        for cx, cy in coordinates[2:]:
-            cdx, cdy = cx - coordinates[0][0], cy - coordinates[0][1]
-            if dx*cdy != dy*cdx:
-                return False
-        return True
+    def checkStraightLine(self, coordinates: List[List[int]]) -> bool:
+        if not coordinates:
+            return False
+        if len(coordinates) < 3:
+            return True
+        dx, dy = coordinates[1][0] - \
+            coordinates[0][0], coordinates[1][1] - coordinates[0][1]
+        if dx == 0 and dy == 0:
+            return False
+        else:
+            for cx, cy in coordinates[2:]:
+                cdx, cdy = cx - coordinates[0][0], cy - coordinates[0][1]
+                if dx*cdy != dy*cdx:
+                    return False
+            return True
