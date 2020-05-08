@@ -47,7 +47,7 @@
 |6|[Majority Element](https://leetcode.com/problems/majority-element/)|[Solution 1](solutions_python/majority_element_1.py), [Solution 2](solutions_python/majority_element_2.py), [Solution 3](solutions_python/majority_element_3.py)|[Solution 1](solutions_cpp/majority_element.cpp), [Solution 2](solutions_cpp/majority_element_2.cpp)||
 |6|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Solution](solutions_python/majority_element_II.py)| [Solution](solutions_cpp/majority_element_1.cpp)
 |7|[Cousins In Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Solution](solutions_python/cousins_in_a_binary_tree.py)| [Solution](solutions_cpp/cousins_in_binary_tree.cpp)|
-|8|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line)|[Solution](solutions_python/check_if_it_is_a_straight_line.py| [Solution](solutions_cpp/check_if_it_Is_a_straight_line.cpp)|
+|8|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line)|[Solution](solutions_python/check_if_it_is_a_straight_line_1.py), [Solution 1](solutions_python/check_if_it_is_a_straight_line_2.py)| [Solution 2](solutions_cpp/check_if_it_Is_a_straight_line.cpp)|
 
 
 *Provided by [Anush Bhatia](https://github.com/anushbhatia)
