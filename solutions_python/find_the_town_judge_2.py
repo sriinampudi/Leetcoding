@@ -40,17 +40,20 @@
 # trust[i] are all different
 # trust[i][0] != trust[i][1]
 # 1 <= trust[i][0], trust[i][1] <= N
-
-class Solution(object):
+class Solution:
     def findJudge(self, N, trust):
+        if N == 1:
+            return 1
         if len(trust) < N-1:
             return -1
-        inDegree = [0]*(N+1)
-        outDegree = [0]*(N+1)
-        for a, b in trust:
-            outDegree[a] += 1
-            inDegree[b] += 1
+
+        trust_score = [0 for _ in range(N+1)]
+
+        for p1, p2 in trust:
+            trust_score[p1] -= 1
+            trust_score[p2] += 1
+
         for p in range(1, N+1):
-            if outDegree[p] == 0 and inDegree[p] == N-1:
+            if trust_score[p] == N-1:
                 return p
         return -1
