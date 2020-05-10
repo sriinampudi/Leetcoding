@@ -54,11 +54,6 @@
 
 *Provided by [Anush Bhatia](https://github.com/anushbhatia)
 
-# Challenge! ⚔
-- If you dare then take up the #100DaysofCode Challenge on Twitter and solve 2-5 problems everyday!
-- Believe me in no time, you would have solved all the Easy problems on [Leetcode](https://leetcode.com/)
-- Don't forget to tag me on Twitter: @smaranjitghose 
-
 <a href="./LICENSE"><h2 align= "center"><b> License 📝</b></h2></a> 
 
 <p align="center"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></p>
