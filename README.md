@@ -51,7 +51,7 @@
 |9| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Solution 1](solutions_python/valid_perfect_square_1.py), [Solution 2](solutions_python/valid_perfect_square_2.py)|  [Solution](solutions_cpp/valid_perfect_square.cpp)|
 |10| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Solution 1](solutions_python/find_the_town_judge.py), [Solution 2](solutions_python/find_the_town_judge_2.py)| [Solution](solutions_cpp/find_the_town_judge.cpp)|
 |11| [Flood Fill](https://leetcode.com/problems/find-the-town-judge/)|[Solution 1](solutions_python/find_the_town_judge.py), [Solution 2](solutions_python/find_the_town_judge_2.py)| [Solution](solutions_cpp/find_the_town_judge.cpp)|
-|12| [Single Element in a Sorted Array](https://leetcode.com/problems/find-the-town-judge/)|[Solution 1](solutions_python/find_the_town_judge.py), [Solution 2](solutions_python/find_the_town_judge_2.py)| [Solution](solutions_cpp/single_element_in_a_sorted_array.cpp)|
+|12| [Single Element in a Sorted Array](https://leetcode.com/problems/find-the-town-judge/)|[Solution 1](solutions_python/single_element_in_a_sorted_array_1.py), [Solution 2](solutions_python/single_element_in_a_sorted_array_2.py) [Solution](solutions_cpp/single_element_in_a_sorted_array.cpp)|
 
 
 *Provided by [Anush Bhatia](https://github.com/anushbhatia)
