@@ -63,6 +63,7 @@
 |17|[Permutations in String](https://leetcode.com/problems/permutation-in-string/)|[Solution](solutions_python/permutations_in_string.py)| |
 |17| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](solutions_python/find_all_anagrams_in_a_string.py)|[Solution](solutions_cpp/find_all_anagrams_in_a_string.cpp)|
 |17| [Minimum  Window Substring](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](solutions_python/minimum_window_substring.py)||
+|19|[Online Stock Pan](https://leetcode.com/problems/online-stock-span/)|[Solution](solutions_python/online_stock_pan.py)||
 |20|[K-Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](solutions_python/k_smallest_element_in_a_bst.py) ||
 |21| [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Solution](solutions_python/sort_characters_by_frequency.py)| |
 |22|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](solutions_python/sort_characters_by_frequency.py)| |
