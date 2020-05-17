@@ -9,13 +9,17 @@
 # trie.insert("apple")
 # trie.search("apple")
 # // returns true
+
 # trie.search("app")
 # // returns false
+
 # trie.startsWith("app")
 # // returns true
+
 # trie.insert("app")
 # trie.search("app")
 # // returns true
+
 # Note:
 
 # You may assume that all inputs are consist of lowercase letters a-z.
