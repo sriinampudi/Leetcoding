@@ -42,6 +42,7 @@
 |1|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](solutions_python/search_insert_position.py)||
 |1|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Solution](solutions_python/guess_number_higher_or_lower.py)||
 |2|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution 1](solutions_python/jewels_and_stones_1.py), [Solution 2](solutions_python/jewels_and_stones_2.py)|[Solution](solutions_cpp/jewels_and_stones.cpp)|
+|2|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution 1](solutions_python/binary_tree_inorder_traversal_1.py), [Solution 2](solutions_python/binary_tree_inorder_traversal_2.py)|
 |3|[Ransom Note](https://leetcode.com/problems/ransom-note/)| [Solution 1](solutions_python/ransom_note_1.py),[Solution 2](solutions_python/ransom_note_2.py)|[Solution](solutions_cpp/ransom_note.cpp)|
 |4|[Number Complement](https://leetcode.com/problems/number-complement/)|[Solution 1](solutions_python/number_complement_1.py), [Solution 2](solutions_python/number_complement_2.py)|[Solution](solutions_cpp/number_complement.cpp) |
 |4|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Solution 1](solutions_python/number_complement_1.py), [Solution 2](solutions_python/number_complement_2.py)| [Solution](solutions_cpp/number_complement.cpp)|
