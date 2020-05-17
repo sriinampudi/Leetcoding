@@ -32,22 +32,26 @@
 
 class Solution(object):
     def findAnagrams(self, s, p):
-        delta = [0]*26 #delta array for a->z
-        N = len(p)
-        results = []
+        if len(s) < len(p):
+            return []
+
+        delta_a = [0]*26  # delta array for a->z
 
         for c in p:
-            delta[ord(c)-ord('a')] +=1
-        for index,c in enumerate(s):
-            # we add s[index] to current window i.e. remove s[index] from delta
-            delta[ord(c)-ord('a')] -= 1
-            if index>=N:
-            # we remove s[index-N] from current window i.e. add s[index-N] back to delta
-                delta[ord(s[index-N])-ord('a')] +=1
+            delta_a[ord(c)-ord('a')] += 1
 
-            if index>=N-1 and all (x==0 for x in delta):
-                #check that all delta is zero
-                results.append(index-(N-1))
-        return results
+        delta_b = [0]*26  # delta array for a->z
+        N = len(p)
+        indices = []
 
-                                                            
+        for i, c in enumerate(s):
+
+            if i < N-1:
+                delta_b[ord(c)-ord('a')] += 1
+            else:
+                delta_b[ord(c)-ord('a')] += 1
+                if delta_a == delta_b:
+                    indices.append(i-N+1)
+                delta_b[ord(s[i-N+1])-ord('a')] -= 1
+
+        return indices
