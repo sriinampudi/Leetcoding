@@ -29,26 +29,25 @@
 # The substring with start index = 1 is "ba", which is an anagram of "ab".
 # The substring with start index = 2 is "ab", which is an anagram of "ab".
 
-from collections import Counter
-
 
 class Solution(object):
     def findAnagrams(self, s, p):
-        s_length, p_length = len(s), len(p)
-        if s_length < p_length:
-            return []
-        p_count = Counter(p)
-        s_count = Counter()
+        delta = [0]*26 #delta array for a->z
+        N = len(p)
+        results = []
 
-        result = []
+        for c in p:
+            delta[ord(c)-ord('a')] +=1
+        for index,c in enumerate(s):
+            # we add s[index] to current window i.e. remove s[index] from delta
+            delta[ord(c)-ord('a')] -= 1
+            if index>=N:
+            # we remove s[index-N] from current window i.e. add s[index-N] back to delta
+                delta[ord(s[index-N])-ord('a')] +=1
 
-        for i in range(s_length):
-            s_count[s[i]] += 1
-            if i >= p_length:
-                if s_count[s[i-p_length]] == 1:
-                    del s_count[s[i-p_length]]
-                else:
-                    s_count[s[i-p_length]] -= 1
-            if p_count == s_count:
-                result.append(i-p_length+1)
-        return result
+            if index>=N-1 and all (x==0 for x in delta):
+                #check that all delta is zero
+                results.append(index-(N-1))
+        return results
+
+                                                            
