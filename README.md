@@ -56,8 +56,8 @@
 |14| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](solutions_python/implement_a_trie.py)|[Solution](solutions_python/implement_a_trie.cpp)|
 |15| [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Solution](solutions_python/maximum_sum_circular_subarray.py)|[Solution](solutions_cpp/maximum_sum_circular_subarray.cpp)|
 |16| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](solutions_python/odd_even_linked_list.py)|[Solution](solutions_cpp/maximum_sum_circular_subarray.cpp)|
-|17| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution 1](solutions_python/find_all_anagrams_in_a_string_1.py),[+Solution 2](solutions_python/find_all_anagrams_in_a_string_2.py)||
-|17| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](solutions_python/valid_anagram.py)||
+|17| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution 1](solutions_python/find_all_anagrams_in_a_string_1.py),[+Solution 2](solutions_python/find_all_anagrams_in_a_string_2.py)|[Solution](solutions_cpp/find_all_anagrams_in_a_string.cpp)|
+|17| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](solutions_python/valid_anagram.py)|[Solution](solutions_cpp/valid_anagram.cpp)||
 
 
 - *Solved by [Anush Bhatia](https://github.com/anushbhatia)
