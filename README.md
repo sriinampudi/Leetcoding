@@ -39,6 +39,7 @@
 |Day #  | Questions | Python Solution(s)| C++ Solution(s)*|
 |-------|-----------| ----------------- |-----------------|
 |1|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](solutions_python/first_bad_version.py)|[Solution](solutions_cpp/first_bad_version.cpp)|
+|1|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](solutions_python/search_insert_position.py)||
 |2|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution 1](solutions_python/jewels_and_stones_1.py), [Solution 2](solutions_python/jewels_and_stones_2.py)|[Solution](solutions_cpp/jewels_and_stones.cpp)|
 |3|[Ransom Note](https://leetcode.com/problems/ransom-note/)| [Solution 1](solutions_python/ransom_note_1.py),[Solution 2](solutions_python/ransom_note_2.py)|[Solution](solutions_cpp/ransom_note.cpp)|
 |4|[Number Complement](https://leetcode.com/problems/number-complement/)|[Solution 1](solutions_python/number_complement_1.py), [Solution 2](solutions_python/number_complement_2.py)|[Solution](solutions_cpp/number_complement.cpp) |
