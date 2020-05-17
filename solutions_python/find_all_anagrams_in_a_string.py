@@ -29,23 +29,42 @@
 # The substring with start index = 1 is "ba", which is an anagram of "ab".
 # The substring with start index = 2 is "ab", which is an anagram of "ab". 
 
-class Solution(object):
-    def findAnagrams(self, s, p):
-        s_len = len(s)
-        p_len = len(p)
-        if s_len < p_len:
-            return []
-        ref = [0] * 26
-        curr = [0] * 26
-        for c in p:
-            ref[ord(c) - ord('a')] += 1
-        i = 0
+
+class Solution:
+    def findAnagrams(self, s: str, p: str) -> List[int]:
+
+        S1_L = len(p)
+        S2_L = len(s)
         indices = []
-        while i < s_len:
-            curr[ord(s[i]) - ord('a')] += 1
-            if ref == curr:
-                indices.append(i - p_len + 1)
-            if i - len(p) + 1 >= 0:
-                curr[ord(s[i - p_len + 1]) - ord('a')] -= 1
+        #Edge Condition
+        if S1_L > S2_L:
+            return indices
+
+        map1 = [0] * 26
+        map2 = [0] * 26
+        i = 0
+
+        while i < S1_L:
+            map1[ord(p[i])-ord('a')] += 1
+            map2[ord(s[i])-ord('a')] += 1
             i += 1
-        return indices 
+
+        # Check Initial Window
+        if map1 == map2:
+            indices.append(0)
+
+        #Initialize Window Pointers
+        left, right = 0, i
+
+        while right < S2_L:
+            # Slide Window
+            map2[ord(s[right]) - ord('a')] += 1
+            map2[ord(s[left]) - ord('a')] -= 1
+            # Increment  Window Pointers
+            left += 1
+            right += 1
+            # Check for slided window
+            if map1 == map2:
+                indices.append(left)
+
+        return indices

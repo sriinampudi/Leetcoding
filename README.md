@@ -58,7 +58,7 @@
 |16| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](solutions_python/odd_even_linked_list.py)|[Solution](solutions_cpp/maximum_sum_circular_subarray.cpp)|
 |17| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](solutions_python/valid_anagram.py)|[Solution](solutions_cpp/valid_anagram.cpp)||
 |17|[Permutations in String](https://leetcode.com/problems/permutation-in-string/)|[Solution](solutions_python/permutations_in_string.py)| |
-|17| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution 1](solutions_python/find_all_anagrams_in_a_string.py)|[Solution](solutions_cpp/find_all_anagrams_in_a_string.cpp)|
+|17| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](solutions_python/find_all_anagrams_in_a_string.py)|[Solution](solutions_cpp/find_all_anagrams_in_a_string.cpp)|
 
 
   *Solved by [Anush Bhatia](https://github.com/anushbhatia)
