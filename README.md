@@ -70,6 +70,7 @@
 |25| [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Solution](solutions_python/uncrossed_lines.py)||
 |26| [Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Solution](solutions_python/contiguous_array.py)||
 |27| [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Solution](solutions_python/possible_bipartition.py)||
+|28| [Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](solutions_python/counting_bits.py)||
 
 
 
