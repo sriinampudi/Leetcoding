@@ -63,6 +63,7 @@
 |17|[Permutations in String](https://leetcode.com/problems/permutation-in-string/)|[Solution](solutions_python/permutations_in_string.py)| |
 |17| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](solutions_python/find_all_anagrams_in_a_string.py)|[Solution](solutions_cpp/find_all_anagrams_in_a_string.cpp)|
 |17| [Minimum  Window Substring](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](solutions_python/minimum_window_substring.py)||
+|25| [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Solution](solutions_python/uncrossed_lines.py)||
 |26| [Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Solution](solutions_python/contiguous_array.py)||
 |27| [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Solution](solutions_python/possible_bipartition.py)||
 
