@@ -63,6 +63,10 @@
 |17|[Permutations in String](https://leetcode.com/problems/permutation-in-string/)|[Solution](solutions_python/permutations_in_string.py)| |
 |17| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](solutions_python/find_all_anagrams_in_a_string.py)|[Solution](solutions_cpp/find_all_anagrams_in_a_string.cpp)|
 |17| [Minimum  Window Substring](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](solutions_python/minimum_window_substring.py)||
+|26| [Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Solution](solutions_python/contiguous_array.py)||
+
+
+
 
 
 <a href="https://leetcode.com/explore/featured/card/june-leetcoding-challenge/"><h3 align= "center"><b>2020 June Leetcoding challenge</b></h3></a> 
@@ -73,8 +77,8 @@
 |2|[Delete A Node In Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](solutions_python/delete-node-in-a-linked-list.py)|[Solution](solutions_cpp/delete-node-in-a-linked-list.cpp)||
 |3|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Solution](solutions_python/two_city_scheduling.py)| [Solution](solutions_cpp/two_city_scheduling.cpp)|
 |4|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](solutions_python/reverse_string.py)| [Solution](solutions_cpp/reverse_string.cpp)|
-|5|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Solution](solutions_python/random_pick_with_weight.py)| [Solution]()|
-|6|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](solutions_python/queue_reconstruction_by_height.py)| [Solution]()|
+|5|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Solution](solutions_python/random_pick_with_weight.py)| |
+|6|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](solutions_python/queue_reconstruction_by_height.py)| |
 
 
  *Solved by [Anush Bhatia](https://github.com/anushbhatia)
