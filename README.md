@@ -73,6 +73,7 @@
 |26| [Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Solution](solutions_python/contiguous_array.py)||
 |27| [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Solution](solutions_python/possible_bipartition.py)||
 |28| [Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](solutions_python/counting_bits.py)||
+|29| [Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](solutions_python/course_schedule.py)||
 
 
 
