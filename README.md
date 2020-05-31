@@ -75,7 +75,7 @@
 |28| [Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](solutions_python/counting_bits.py)||
 |29| [Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](solutions_python/course_schedule.py)||
 |30| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](solutions_python/k-closest-points-to-origin.py)||
-|31| [Edit Distance]((https://leetcode.com/problems/edit-distance/)|[Solution](solutions_python/edit_distance.py)| |
+|31| [Edit Distance](https://leetcode.com/problems/edit-distance/)|[Solution](solutions_python/edit_distance.py)| |
 
 
 
