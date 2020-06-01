@@ -69,9 +69,9 @@
 
 <a href="https://leetcode.com/explore/featured/card/june-leetcoding-challenge/"><h3 align= "center"><b>2020 June Leetcoding challenge</b></h3></a> 
 
-|Day #  | Questions | Python Solution(s)|
-|-------|-----------| ----------------- |
-|1|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](solutions_python/invert_binary_tree.py)|
+|Day #  | Questions | Python Solution(s)| C++ Solution(s)*|
+|-------|-----------| ----------------- |-----------------|
+|1|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](solutions_python/invert_binary_tree.py)|[Solution](solutions_cpp/invert_binary_tree.cpp)|
 
 <a href="./LICENSE"><h2 align= "center"><b> License 📝</b></h2></a> 
 
