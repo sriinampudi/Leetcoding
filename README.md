@@ -60,12 +60,18 @@
 |15| [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Solution](solutions_python/maximum_sum_circular_subarray.py)|[Solution](solutions_cpp/maximum_sum_circular_subarray.cpp)|
 |16| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](solutions_python/odd_even_linked_list.py)|[Solution](solutions_cpp/maximum_sum_circular_subarray.cpp)|
 |17| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](solutions_python/valid_anagram.py)|[Solution](solutions_cpp/valid_anagram.cpp)||
+|17|[Permutations in String](https://leetcode.com/problems/permutation-in-string/)|[Solution](solutions_python/permutations_in_string.py)| |
 |17| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](solutions_python/find_all_anagrams_in_a_string.py)|[Solution](solutions_cpp/find_all_anagrams_in_a_string.cpp)|
 |17| [Minimum  Window Substring](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](solutions_python/minimum_window_substring.py)||
-|18|[Permutations in String](https://leetcode.com/problems/permutation-in-string/)|[Solution](solutions_python/permutations_in_string.py)| |
 
 
   *Solved by [Anush Bhatia](https://github.com/anushbhatia)
+
+<a href="https://leetcode.com/explore/featured/card/june-leetcoding-challenge/"><h3 align= "center"><b>2020 June Leetcoding challenge</b></h3></a> 
+
+|Day #  | Questions | Python Solution(s)|
+|-------|-----------| ----------------- |
+|1|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](solutions_python/invert_binary_tree.py)|
 
 <a href="./LICENSE"><h2 align= "center"><b> License 📝</b></h2></a> 
 
