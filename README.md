@@ -72,6 +72,7 @@
 |Day #  | Questions | Python Solution(s)| C++ Solution(s)*|
 |-------|-----------| ----------------- |-----------------|
 |1|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](solutions_python/invert_binary_tree.py)|[Solution](solutions_cpp/invert_binary_tree.cpp)|
+|1|[Delete A Node In Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](solutions_python/delete-node-in-a-linked-list.py)|[Solution](solutions_cpp/delete-node-in-a-linked-list.cpp)|
 
 <a href="./LICENSE"><h2 align= "center"><b> License 📝</b></h2></a> 
 
