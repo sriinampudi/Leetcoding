@@ -65,8 +65,6 @@
 |17| [Minimum  Window Substring](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](solutions_python/minimum_window_substring.py)||
 
 
-  *Solved by [Anush Bhatia](https://github.com/anushbhatia)
-
 <a href="https://leetcode.com/explore/featured/card/june-leetcoding-challenge/"><h3 align= "center"><b>2020 June Leetcoding challenge</b></h3></a> 
 
 |Day #  | Questions | Python Solution(s)| C++ Solution(s)*|
@@ -76,7 +74,7 @@
 |3|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Solution](solutions_python/two_city_scheduling.py)| [Solution](solutions_cpp/two_city_scheduling.cpp)|
 |4|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](solutions_python/reverse_string.py)| [Solution]
 
-
+ *Solved by [Anush Bhatia](https://github.com/anushbhatia)
 
 <a href="./LICENSE"><h2 align= "center"><b> License 📝</b></h2></a> 
 
