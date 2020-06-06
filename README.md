@@ -73,6 +73,9 @@
 |2|[Delete A Node In Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](solutions_python/delete-node-in-a-linked-list.py)|[Solution](solutions_cpp/delete-node-in-a-linked-list.cpp)||
 |3|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Solution](solutions_python/two_city_scheduling.py)| [Solution](solutions_cpp/two_city_scheduling.cpp)|
 |4|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](solutions_python/reverse_string.py)| [Solution](solutions_cpp/reverse_string.cpp)|
+|5|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Solution]()| [Solution]()|
+|6|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](solutions_python/queue_reconstruction_by_height.py)| [Solution]()|
+
 
  *Solved by [Anush Bhatia](https://github.com/anushbhatia)
 
