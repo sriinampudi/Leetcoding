@@ -89,7 +89,7 @@
 |4|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](solutions_python/reverse_string.py)| [Solution](solutions_cpp/reverse_string.cpp)|
 |5|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Solution](solutions_python/random_pick_with_weight.py)| [Solution](solutions_cpp/random_pick_with_weight.cpp)||
 |6|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](solutions_python/queue_reconstruction_by_height.py)|[Solution](solutions_cpp/queue_reconstruction_by_height.cpp) |
-|7|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)||[Solution](solutions_cpp/coin_change_2.cpp) |
+|7|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](solutions_python/coin_change_2.py)|[Solution](solutions_cpp/coin_change_2.cpp) |
 |8| [Power of Two](https://leetcode.com/problems/power-of-two/)| [Solution](solutions_python/power_of_two.py) | |
 
 
