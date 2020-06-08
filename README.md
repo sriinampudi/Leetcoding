@@ -9,9 +9,6 @@
 - There might be solutions which are much more efficent in terms of space and time complexity or even brevity of code
 - Feel free to add your own!
 
-
-<p align="center"><img width=40% src="https://media.giphy.com/media/gjaJ4I9CdwBBTbY4W1/giphy.gif"></p>
-
 <h2 align= "center"><b>Problems: 📚</b></h2>
 
 | Questions | Solution(s) |
