@@ -90,6 +90,7 @@
 |8| [Power of Two](https://leetcode.com/problems/power-of-two/)| [Solution](solutions_python/power_of_two.py) | |
 |8| [Power of Three](https://leetcode.com/problems/power-of-three/)| [Solution](solutions_python/power_of_three.py) | |
 |8| [Power of Four](https://leetcode.com/problems/power-of-four/)| [Solution](solutions_python/power_of_four.py) | |
+|8| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](solutions_python/number_of_1_bits.py) | |
 
  ###  ^ C++ Solutions by 
  
