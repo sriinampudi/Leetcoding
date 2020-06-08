@@ -9,9 +9,6 @@
 - There might be solutions which are much more efficent in terms of space and time complexity or even brevity of code
 - Feel free to add your own!
 
-
-<p align="center"><img width=40% src="https://media.giphy.com/media/gjaJ4I9CdwBBTbY4W1/giphy.gif"></p>
-
 <h2 align= "center"><b>Problems: 📚</b></h2>
 
 | Questions | Solution(s) |
@@ -36,7 +33,7 @@
 
 <a href="https://leetcode.com/discuss/general-discussion/595334/May-LeetCoding-Challenge"><h3 align= "center"><b>2020 May Leetcoding challenge</b></h3></a> 
 
-|Day #  | Questions | Python Solution(s)| C++ Solution(s)*|
+|Day #  | Questions | Python Solution(s)|^ C++ Solution(s)|
 |-------|-----------| ----------------- |-----------------|
 |1|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](solutions_python/first_bad_version.py)|[Solution](solutions_cpp/first_bad_version.cpp)|
 |1|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](solutions_python/search_insert_position.py)||
@@ -81,7 +78,7 @@
 
 <a href="https://leetcode.com/explore/featured/card/june-leetcoding-challenge/"><h3 align= "center"><b>2020 June Leetcoding challenge</b></h3></a> 
 
-|Day #  | Questions | Python Solution(s)| C++ Solution(s)*|
+|Day #  | Questions | Python Solution(s)|^ C++ Solution(s)|
 |-------|-----------| ----------------- |-----------------|
 |1|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](solutions_python/invert_binary_tree.py)|[Solution](solutions_cpp/invert_binary_tree.cpp)|
 |2|[Delete A Node In Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](solutions_python/delete-node-in-a-linked-list.py)|[Solution](solutions_cpp/delete-node-in-a-linked-list.cpp)||
@@ -93,7 +90,7 @@
 |8| [Power of Two](https://leetcode.com/problems/power-of-two/)| [Solution](solutions_python/power_of_two.py) | |
 |8| [Power of THree](https://leetcode.com/problems/power-of-three/)| [Solution](solutions_python/power_of_three.py) | |
 
- * C++ Solutions by 
+ ###  ^ C++ Solutions by 
  
  <p align="center"><img width=30% src="https://avatars1.githubusercontent.com/u/40017559?s=400&u=1f74977f5a5fd09b42a16df416e9f6674b9b783c&v=4"></p>
  
