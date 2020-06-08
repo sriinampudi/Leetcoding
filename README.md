@@ -93,9 +93,9 @@
 |8| [Power of Two](https://leetcode.com/problems/power-of-two/)| [Solution](solutions_python/power_of_two.py) | |
 
 
- *Solved by [Anush Bhatia](https://github.com/anushbhatia)
-
-<a href="./LICENSE"><h2 align= "center"><b> License 📝</b></h2></a> 
-
-<p align="center"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></p>
+ * C++ Solutions by 
+ 
+ <p align="center"><img width=30% src="https://avatars1.githubusercontent.com/u/40017559?s=400&u=1f74977f5a5fd09b42a16df416e9f6674b9b783c&v=4"></p>
+ 
+ <a href="https://github.com/anushbhatia"><h4 align= "center"><b>Anush Bhatia</b></h4></a> 
 
