@@ -87,10 +87,10 @@
 |5|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Solution](solutions_python/random_pick_with_weight.py)| [Solution](solutions_cpp/random_pick_with_weight.cpp)||
 |6|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](solutions_python/queue_reconstruction_by_height.py)|[Solution](solutions_cpp/queue_reconstruction_by_height.cpp) |
 |7|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](solutions_python/coin_change_2.py)|[Solution](solutions_cpp/coin_change_2.cpp) |
-|8| [Power of Two](https://leetcode.com/problems/power-of-two/)| [Solution](solutions_python/power_of_two.py) | |
-|8| [Power of Three](https://leetcode.com/problems/power-of-three/)| [Solution](solutions_python/power_of_three.py) | |
-|8| [Power of Four](https://leetcode.com/problems/power-of-four/)| [Solution](solutions_python/power_of_four.py) | |
-|8| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](solutions_python/number_of_1_bits.py) | |
+|8| [Power of Two](https://leetcode.com/problems/power-of-two/)| [Solution](solutions_python/power_of_two.py) |[Solution](solutions_cpp/power_of_two.cpp) |
+|8| [Power of Three](https://leetcode.com/problems/power-of-three/)| [Solution](solutions_python/power_of_three.py) |[Solution](solutions_cpp/power_of_three.cpp) |
+|8| [Power of Four](https://leetcode.com/problems/power-of-four/)| [Solution](solutions_python/power_of_four.py) | [Solution](solutions_cpp/power_of_four.cpp)|
+|8| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](solutions_python/number_of_1_bits.py) |[Solution](solutions_cpp/number_of_1_bits.cpp) |
 
  ###  ^ C++ Solutions by 
  
