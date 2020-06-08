@@ -91,7 +91,7 @@
 |6|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](solutions_python/queue_reconstruction_by_height.py)|[Solution](solutions_cpp/queue_reconstruction_by_height.cpp) |
 |7|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](solutions_python/coin_change_2.py)|[Solution](solutions_cpp/coin_change_2.cpp) |
 |8| [Power of Two](https://leetcode.com/problems/power-of-two/)| [Solution](solutions_python/power_of_two.py) | |
-
+|8| [Power of THree](https://leetcode.com/problems/power-of-three/)| [Solution](solutions_python/power_of_three.py) | |
 
  * C++ Solutions by 
  
