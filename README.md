@@ -91,6 +91,7 @@
 |8| [Power of Three](https://leetcode.com/problems/power-of-three/)| [Solution](solutions_python/power_of_three.py) |[Solution](solutions_cpp/power_of_three.cpp) |
 |8| [Power of Four](https://leetcode.com/problems/power-of-four/)| [Solution](solutions_python/power_of_four.py) | [Solution](solutions_cpp/power_of_four.cpp)|
 |8| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](solutions_python/number_of_1_bits.py) |[Solution](solutions_cpp/number_of_1_bits.cpp) |
+|9|[Is Subsequnce](https://leetcode.com/problems/is-subsequence/)|[Solution](solutions_python/is_subsequence.py)||
 
  ###  ^ C++ Solutions by 
  
