@@ -43,7 +43,8 @@ class Solution:
             if s[si] == t[ti]:
                 si += 1
             ti += 1
-        return si == len(s)
-
+            if si == len(s):
+                return True
+        return False
 # Time Complexity = O(len(s)+len(t))
 
