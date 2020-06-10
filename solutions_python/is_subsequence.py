@@ -45,3 +45,5 @@ class Solution:
             ti += 1
         return si == len(s)
 
+# Time Complexity = O(len(s)+len(t))
+
