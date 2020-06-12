@@ -91,8 +91,10 @@
 |8| [Power of Three](https://leetcode.com/problems/power-of-three/)| [Solution](solutions_python/power_of_three.py) |[Solution](solutions_cpp/power_of_three.cpp) |
 |8| [Power of Four](https://leetcode.com/problems/power-of-four/)| [Solution](solutions_python/power_of_four.py) | [Solution](solutions_cpp/power_of_four.cpp)|
 |8| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](solutions_python/number_of_1_bits.py) |[Solution](solutions_cpp/number_of_1_bits.cpp) |
-|9|[Is Subsequnce](https://leetcode.com/problems/is-subsequence/)|[Solution](solutions_python/is_subsequence.py)||
-|9|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Solution](solutions_python/number_of_matching_subsequences.py)||
+|9|[Is Subsequnce](https://leetcode.com/problems/is-subsequence/)|[Solution](solutions_python/is_subsequence.py)|[Solution](solutions_cpp/is_subsequence.cpp)|
+|9|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Solution](solutions_python/number_of_matching_subsequences.py)|[Solution](solutions_cpp/number_of_matching_subsequences.cpp)|
+|10|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)||[Solution](solutions_cpp/search_insert_position.cpp)|
+|11|[Sort Colors](https://leetcode.com/problems/sort-colors/)||[Solution](solutions_cpp/sort-colors.cpp)|
 
  ###  ^ C++ Solutions by 
  
