@@ -1,104 +1,130 @@
-<h1 align= "center"><b> LeetCoding 👨‍💻 👩‍💻</b></h1>
+# Leetcoding
 
-<p align="center"><img width=40% src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif"></p>
+A repo that comprises various Leetcode Questions I practice from time to time.
 
-- This repo is a curation of the [Leetcode](https://leetcode.com/) Problems which I solve occasionaly.
-- The solutions are primarily in Python (also C++ for certain problems)
-- You can use this as a refernce for your Interview Prep Journey or in general problem solving
-- Currently availabe: [Easy](https://leetcode.com/problemset/algorithms/?difficulty=Easy) Problems , [Medium](https://leetcode.com/problemset/algorithms/?difficulty=Medium) Problems
-- There might be solutions which are much more efficent in terms of space and time complexity or even brevity of code
-- Feel free to add your own!
-
-<h2 align= "center"><b>Problems: 📚</b></h2>
-
-| Questions | Solution(s) |
-| --------- | ----------- |
-|[1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| [Solution 1](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1342.py),[Solution 2](https://github.com/smaranjitghose/PyLeetCode/tree/master/solutions_easy/1342_2.py) | 
-|[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1295.py) | 
-|[1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1281.py) | 
-|[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1281.py) | 
-|[1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1313.py) | 
-|[1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1221.py) |  
-|[1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1351.py) | 
-|[1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1323.py) | 
-|[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/709.py) | 
-|[1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1304.py) | 
-|[1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1021.py) | 
-|[1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/1299.py) |
-|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/7.py) | 
-|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/832.py) | 
-|[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/977.py) | 
-|[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/905.py) | 
-|[728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)| [Solution](https://github.com/smaranjitghose/PyLeetCode/blob/master/solutions_easy/728.py) | 
-
-<a href="https://leetcode.com/discuss/general-discussion/595334/May-LeetCoding-Challenge"><h3 align= "center"><b>2020 May Leetcoding challenge</b></h3></a> 
-
-|Day #  | Questions | Python Solution(s)|^ C++ Solution(s)|
-|-------|-----------| ----------------- |-----------------|
-|1|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution](solutions_python/first_bad_version.py)|[Solution](solutions_cpp/first_bad_version.cpp)|
-|1|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](solutions_python/search_insert_position.py)||
-|1|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[Solution](solutions_python/guess_number_higher_or_lower.py)||
-|2|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Solution 1](solutions_python/jewels_and_stones_1.py), [Solution 2](solutions_python/jewels_and_stones_2.py)|[Solution](solutions_cpp/jewels_and_stones.cpp)|
-|2|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution 1](solutions_python/binary_tree_inorder_traversal_1.py), [Solution 2](solutions_python/binary_tree_inorder_traversal_2.py)|
-|3|[Ransom Note](https://leetcode.com/problems/ransom-note/)| [Solution 1](solutions_python/ransom_note_1.py),[Solution 2](solutions_python/ransom_note_2.py)|[Solution](solutions_cpp/ransom_note.cpp)|
-|4|[Number Complement](https://leetcode.com/problems/number-complement/)|[Solution 1](solutions_python/number_complement_1.py), [Solution 2](solutions_python/number_complement_2.py)|[Solution](solutions_cpp/number_complement.cpp) |
-|4|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Solution 1](solutions_python/number_complement_1.py), [Solution 2](solutions_python/number_complement_2.py)| [Solution](solutions_cpp/number_complement.cpp)|
-|5|[First Unique Character in a string](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](solutions_python/first_unique_character_in_string.py)| [Solution](solutions_cpp/first_unique_character_in_string.cpp)|
-|6|[Majority Element](https://leetcode.com/problems/majority-element/)|[Solution 1](solutions_python/majority_element_1.py), [Solution 2](solutions_python/majority_element_2.py), [Solution 3](solutions_python/majority_element_3.py)|[Solution 1](solutions_cpp/majority_element.cpp), [Solution 2](solutions_cpp/majority_element_2.cpp)||
-|6|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Solution](solutions_python/majority_element_II.py)| [Solution](solutions_cpp/majority_element_1.cpp)
-|7|[Cousins In Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Solution](solutions_python/cousins_in_a_binary_tree.py)| [Solution](solutions_cpp/cousins_in_binary_tree.cpp)|
-|8|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line)|[Solution 1](solutions_python/check_if_it_is_a_straight_line_1.py), [Solution 2](solutions_python/check_if_it_is_a_straight_line_2.py)| [Solution](solutions_cpp/check_if_it_Is_a_straight_line.cpp)|
-|9| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Solution 1](solutions_python/valid_perfect_square_1.py), [Solution 2](solutions_python/valid_perfect_square_2.py)|  [Solution](solutions_cpp/valid_perfect_square.cpp)|
-|10| [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[Solution 1](solutions_python/find_the_town_judge.py), [Solution 2](solutions_python/find_the_town_judge_2.py)| [Solution](solutions_cpp/find_the_town_judge.cpp)|
-|11| [Flood Fill](https://leetcode.com/problems/find-the-town-judge/)|[Solution 1](solutions_python/find_the_town_judge.py), [Solution 2](solutions_python/find_the_town_judge_2.py)| [Solution](solutions_cpp/find_the_town_judge.cpp)|
-|12| [Single Element in a Sorted Array](https://leetcode.com/problems/find-the-town-judge/)|[Solution 1](solutions_python/single_element_in_a_sorted_array_1.py), [Solution 2](solutions_python/single_element_in_a_sorted_array_2.py)|[Solution](solutions_cpp/single_element_in_a_sorted_array.cpp)|
-|13| [Remove K Digits](https://leetcode.com/problems/find-the-town-judge/)|[Solution](solutions_python/remove_k_digits.py)|[Solution](solutions_cpp/remove_k_digits.cpp)|
-|14| [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](solutions_python/implement_a_trie.py)|[Solution](solutions_python/implement_a_trie.cpp)|
-|15| [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Solution](solutions_python/maximum_sum_circular_subarray.py)|[Solution](solutions_cpp/maximum_sum_circular_subarray.cpp)|
-|16| [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution](solutions_python/odd_even_linked_list.py)|[Solution](solutions_cpp/maximum_sum_circular_subarray.cpp)|
-|17| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](solutions_python/valid_anagram.py)|[Solution](solutions_cpp/valid_anagram.cpp)||
-|17| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](solutions_python/find_all_anagrams_in_a_string.py)|[Solution](solutions_cpp/find_all_anagrams_in_a_string.cpp)|
-|17| [Minimum  Window Substring](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](solutions_python/minimum_window_substring.py)||
-|18|[Permutations in String](https://leetcode.com/problems/permutation-in-string/)|[Solution](solutions_python/permutations_in_string.py)| |
-|19|[Online Stock Pan](https://leetcode.com/problems/online-stock-span/)|[Solution](solutions_python/online_stock_pan.py)||
-|20|[K-Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](solutions_python/k_smallest_element_in_a_bst.py) ||
-|21| [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Solution](solutions_python/sort_characters_by_frequency.py)| |
-|22|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](solutions_python/sort_characters_by_frequency.py)| |
-|23| [Internal List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Solution](solutions_python/interval_list_intersections.py)||
-|24| [Construct Binary Tree from Pre-Order Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Solution](solutions_python/construct_binary_tree_from_pre_order_traversal.py)||
-|25| [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Solution](solutions_python/uncrossed_lines.py)||
-|26| [Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Solution](solutions_python/contiguous_array.py)||
-|27| [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Solution](solutions_python/possible_bipartition.py)||
-|28| [Counting Bits](https://leetcode.com/problems/counting-bits/)|[Solution](solutions_python/counting_bits.py)||
-|29| [Course Schedule](https://leetcode.com/problems/course-schedule/)|[Solution](solutions_python/course_schedule.py)||
-|30| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](solutions_python/k-closest-points-to-origin.py)||
-|31| [Edit Distance](https://leetcode.com/problems/edit-distance/)|[Solution](solutions_python/edit_distance.py)| |
+** All the Solutions are in Python (and unless I have a change of heart for my primary language of my work, it will remain the same!)
 
 
-
-<a href="https://leetcode.com/explore/featured/card/june-leetcoding-challenge/"><h3 align= "center"><b>2020 June Leetcoding challenge</b></h3></a> 
-
-|Day #  | Questions | Python Solution(s)|^ C++ Solution(s)|
-|-------|-----------| ----------------- |-----------------|
-|1|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](solutions_python/invert_binary_tree.py)|[Solution](solutions_cpp/invert_binary_tree.cpp)|
-|2|[Delete A Node In Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](solutions_python/delete-node-in-a-linked-list.py)|[Solution](solutions_cpp/delete-node-in-a-linked-list.cpp)||
-|3|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Solution](solutions_python/two_city_scheduling.py)| [Solution](solutions_cpp/two_city_scheduling.cpp)|
-|4|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](solutions_python/reverse_string.py)| [Solution](solutions_cpp/reverse_string.cpp)|
-|5|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Solution](solutions_python/random_pick_with_weight.py)| [Solution](solutions_cpp/random_pick_with_weight.cpp)||
-|6|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](solutions_python/queue_reconstruction_by_height.py)|[Solution](solutions_cpp/queue_reconstruction_by_height.cpp) |
-|7|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](solutions_python/coin_change_2.py)|[Solution](solutions_cpp/coin_change_2.cpp) |
-|8| [Power of Two](https://leetcode.com/problems/power-of-two/)| [Solution](solutions_python/power_of_two.py) |[Solution](solutions_cpp/power_of_two.cpp) |
-|8| [Power of Three](https://leetcode.com/problems/power-of-three/)| [Solution](solutions_python/power_of_three.py) |[Solution](solutions_cpp/power_of_three.cpp) |
-|8| [Power of Four](https://leetcode.com/problems/power-of-four/)| [Solution](solutions_python/power_of_four.py) | [Solution](solutions_cpp/power_of_four.cpp)|
-|8| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Solution](solutions_python/number_of_1_bits.py) |[Solution](solutions_cpp/number_of_1_bits.cpp) |
-|9|[Is Subsequnce](https://leetcode.com/problems/is-subsequence/)|[Solution](solutions_python/is_subsequence.py)|[Solution](solutions_cpp/is_subsequence.cpp)|
-|9|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Solution](solutions_python/number_of_matching_subsequences.py)|[Solution](solutions_cpp/number_of_matching_subsequences.cpp)|
-|10|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)||[Solution](solutions_cpp/search_insert_position.cpp)|
-|11|[Sort Colors](https://leetcode.com/problems/sort-colors/)||[Solution](solutions_cpp/sort-colors.cpp)|
-
- ###  ^ C++ Solutions by 
- 
- <p align="center"><img width=30% src="https://avatars1.githubusercontent.com/u/40017559?s=400&u=1f74977f5a5fd09b42a16df416e9f6674b9b783c&v=4"></p>
- 
- <a href="https://github.com/anushbhatia"><h4 align= "center"><b>Anush Bhatia</b></h4></a> 
+|Sl No.|Question|Solution|Level|Concepts Covered|
+|------|--------|--------|-----|----------------|
+|1|String Compression||Easy||
+|2|Subtree of Another Tree||Easy||
+|3|Defanging an IP address||Easy||
+|4|Verifying an Alien Dictionary||Easy||
+|5|Assign Cookies||Easy||
+|6|Reverse Only Letters||Easy||
+|7|Split a String in Balanced Strings||Easy||
+|8|Add Strings||Easy||
+|9|Best Time to Buy and Sell Stock II||Easy||
+|10|Last Stone Weight||Easy||
+|11|Ranage Sum of BST||Easy||
+|12|Intersection of two Linked Lists||Easy||
+|13|Reverse Vowels of a String||Easy||
+|14|Binary Tree Paths||Easy||
+|15|Remove Vowels from a String||Easy||
+|16|Valid Mountain Array||Easy||
+|17|Flip Game||Easy||
+|18|Merge two sorted lists||Easy||
+|19|Longest Common Prefix||Easy||
+|20|Valid Palindrome II||Easy||
+|21|Ransom Note||Easy||
+|22|Reverse String||Easy||
+|23|Valid Anagram||Easy||
+|24|First Unique Character in a String||Easy||
+|25|Best Time to Buy and Sell Stock||Easy||
+|26|Contains Duplicate||Easy||
+|27|Fizz Buzz||Easy||
+|28|Valid Parenthesis||Easy||
+|29|Single Number||Easy||
+|30|Power of Two||Easy||
+|31|Two Sum||Easy||
+|32|Backspace String Compare||Easy||
+|33|Move Zeroes||Easy||
+|34|Reverse Integer||Easy||
+|35|Plus One||Easy||
+|36|First Bad Version||Easy|Binary Search|
+|37|Paint House||Easy||
+|38|Robot Return to Origin||Easy||
+|39|Contains Duplicate II||Easy||
+|40|Find the Difference||Easy||
+|41|Convert Sorted Array to Binary Search Tree||Easy||
+|42|Intersection of Two Arrays||Easy||
+|43|Missing Number||Easy||
+|44|Meeting Room||Easy||
+|45|Moving Average from Data Stream||Easy||
+|46|Majority Element||Easy||
+|47|Hamming Distance||Easy||
+|48|Walking Robot Simulation||Easy||
+|49|Path Sum||Easy||
+|50|Remove Element||Easy||
+|51|Number Complement||Easy||
+|52|Climbing Stairs||Easy||
+|53|Lowest Common Ancestor of a Binary Search Tree||Easy||
+|54|Jewels and Stones||Easy||
+|55|Binary Number with Alternating Bits||Easy||
+|56|Valid Palindrome||Easy||
+|57|Find all numbers disappeared in an array||Easy||
+|58|Monotonic Array||Easy||
+|59|Sum of Left Leaves||Easy||
+|60|Remove Duplicates from Sorted Array||Easy||
+|61|Flipping an image||Easy||
+|62|Add Binary||Easy||
+|63|Flood Fill||Easy||
+|64|Reverse Linked List||Easy||
+|65|Most Common Word||Easy||
+|66|Unique Email Addresses||Easy||
+|67|K Closest Points to Origin||Easy||
+|68|License Key Formatting||Easy||
+|69|Detect Capital||Easy||
+|70|House Robber||Easy||
+|71|Same Tree||Easy||
+|72|Maximum Depth of a Binary Tree||Easy||
+|73|Symmetric Tree||Easy||
+|74|Happy Number||Easy||
+|75|Sort Array by Parity||Easy||
+|76|Count Primes||Easy||
+|77|Transpose Matrix||Easy||
+|78|All Adjacent Duplicates in String||Easy||
+|79|Matrix Cells in Distance Order||Easy||
+|80|Smallest Range I||Easy||
+|81|Divisor Game||Easy||
+|82|Middle of Linked List||Easy||
+|83|Leaf Similar Trees||Easy||
+|84|Reverse Words in a String III||Easy||
+|85|Occurrences after Bigram||Easy||
+|86|Project Area of 3D shapes||Easy||
+|87|Increasing Order Tree||Easy||
+|88|Find Common Characters||Easy||
+|89|Available Captures for Rook||Easy||
+|90|Subdomain Visit Count||Easy||
+|91|Range Sum of BST||Easy||
+|92|To Lower Case||Easy||
+|93|Remove Outer Paranthesis||Easy||
+|94|Unique Morse Code Words||Easy||
+|95|N Repeated Element in 2N Array||Easy||
+|96|Self Dividing Numbers||Easy||
+|97|Merge two Binary Trees ||Easy||
+|98|Array Partition I||Easy||
+|99|Height Checker||Easy||
+|100|N-ary Tree Preorder Traversal||Easy||
+|101|N-ary Tree Postorder Traversal||Easy||
+|102|Sort Array by Parity II||Easy||
+|103|Univalued Binary Tree||Easy||
+|104|Fibonacci Number|Easy||
+|105|Shortest Distance to a Character||Easy||
+|106|Valid Phone Numbers||Easy||
+|107|Valid Boomerang||Easy||
+|108|Long Pressed Name||Easy||
+|109|Word Pattern||Easy||
+|110|Factorial Trailing Zeroes||Easy||
+|111|Check if N and it's double exist||Easy||
+|112|Check if Binary String has one segment of ones||Easy||
+|113|Power of Three||Easy||
+|114|Reverse Bits||Easy||
+|115|Set Mismatch||Easy||
+|116|Ugly Number||Easy||
+|117|Power of Four||Easy||
+|118|Isomorphic Strings||Easy||
+|119|Rising Temperature||Easy||
+|120|Classes more than 5 students||Easy||
 
