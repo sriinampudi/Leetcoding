@@ -1,4 +1,4 @@
-# Leetcoding
+# Leetcoding 
 
 
 | Question | Solution(s) | Tag(s) |
@@ -7,7 +7,7 @@
 
 
 
-# Contributor
+# Contributor👩‍💻
 
 
 <p align="center">
@@ -15,6 +15,6 @@
 </p>
 
 <a href="https://github.com/sriinampudi">
-<h5 align="center"><b>Srividhya</b></a
+<h5 align="center"><b>Srividya</b></a
 
 
